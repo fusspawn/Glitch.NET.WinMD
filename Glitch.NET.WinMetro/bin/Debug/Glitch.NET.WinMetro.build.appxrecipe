@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FUBOTIXLABS</Machine>
+    <WindowsUser>Fusspawn</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2011-09-20T20:23:45.041</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\Glitch.NET.WinMD.dll">
+      <PackagePath>Glitch.NET.WinMD.dll</PackagePath>
+      <Modified>2011-09-20T23:58:31.735</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\Glitch.NET.WinMD.pdb">
+      <PackagePath>Glitch.NET.WinMD.pdb</PackagePath>
+      <Modified>2011-09-20T23:58:31.710</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\Newtonsoft.Json.Net35.dll">
+      <PackagePath>Newtonsoft.Json.Net35.dll</PackagePath>
+      <Modified>2011-09-20T20:11:09.092</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.Data.dll">
+      <PackagePath>System.Data.dll</PackagePath>
+      <Modified>2011-08-02T23:32:55.658</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.EnterpriseServices.dll">
+      <PackagePath>System.EnterpriseServices.dll</PackagePath>
+      <Modified>2011-08-02T23:32:56.454</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.EnterpriseServices.Wrapper.dll">
+      <PackagePath>System.EnterpriseServices.Wrapper.dll</PackagePath>
+      <Modified>2011-08-02T23:32:56.750</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.Transactions.dll">
+      <PackagePath>System.Transactions.dll</PackagePath>
+      <Modified>2011-08-02T23:32:57.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2011-09-20T18:45:24.607</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\bin\Debug\glitch.net.winmetro.exe">
+      <PackagePath>glitch.net.winmetro.exe</PackagePath>
+      <Modified>2011-09-20T23:58:34.759</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2011-09-20T21:49:47.733</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2011-09-20T23:58:35.157</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\Images\Logo.png">
+      <PackagePath>Images\Logo.png</PackagePath>
+      <Modified>2011-09-20T18:45:24.512</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\Images\SmallLogo.png">
+      <PackagePath>Images\SmallLogo.png</PackagePath>
+      <Modified>2011-09-20T18:45:24.601</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\Images\SplashScreen.png">
+      <PackagePath>Images\SplashScreen.png</PackagePath>
+      <Modified>2011-09-20T18:45:24.602</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <Modified>2011-09-20T18:45:24.604</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Users\Fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMetro\obj\Debug\glitch.net.winmetro.pdb">
+      <PackagePath>glitch.net.winmetro.pdb</PackagePath>
+      <Modified>2011-09-20T23:58:34.736</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\assembly\GAC_64\System.Data.OracleClient\2.0.0.0__b77a5c561934e089\System.Data.OracleClient.dll">
+      <PackagePath>System.Data.OracleClient.dll</PackagePath>
+      <Modified>2011-08-02T23:32:55.674</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Windows\assembly\GAC_64\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll">
+      <PackagePath>System.Web.dll</PackagePath>
+      <Modified>2011-08-02T23:32:57.093</Modified>
+    </AppXPackagedFile>
+  </ItemGroup>
+</Project>

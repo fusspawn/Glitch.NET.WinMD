@@ -1,0 +1,12 @@
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\obj\Debug\Glitch.NET.WinMD.csprojResolveAssemblyReference.cache
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\Glitch.NET.WinMD.dll
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\Glitch.NET.WinMD.pdb
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\obj\Debug\Glitch.NET.WinMD.dll
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\obj\Debug\Glitch.NET.WinMD.pdb
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\Newtonsoft.Json.Net35.dll
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.Data.dll
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.Transactions.dll
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.EnterpriseServices.dll
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.Web.dll
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.Data.OracleClient.dll
+c:\users\fusspawn\documents\visual studio 11\Projects\Glitch.NET\Glitch.NET.WinMD\bin\Debug\System.EnterpriseServices.Wrapper.dll

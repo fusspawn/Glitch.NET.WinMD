@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="dd7dfd16-e23b-4975-94e8-d04d8f70948a" Publisher="CN=Fusspawn" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>Glitch.NET.WinMetro</DisplayName>
+    <PublisherDisplayName>Fusspawn</PublisherDisplayName>
+    <Logo>Images\StoreLogo.png</Logo>
+    <Description>Glitch.NET.WinMetro</Description>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="en-us" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="glitch.net.winmetro.exe" EntryPoint="Glitch.NET.WinMetro.App">
+      <VisualElements DisplayName="Glitch.NET.WinMetro" Logo="Images\Logo.png" SmallLogo="Images\SmallLogo.png" Description="Glitch.NET.WinMetro" ForegroundText="light" BackgroundColor="#222222">
+        <SplashScreen Image="Images\SplashScreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
